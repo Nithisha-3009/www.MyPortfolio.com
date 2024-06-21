@@ -1,0 +1,94 @@
+/* social media icons styling */
+*{
+    background-color: rgb(236, 235, 240);
+}
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+/* footer styling */
+#footer {
+    background-color: #f6f6f6;
+    text-align: center;
+}
+/* spacing on all sections */
+#services {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+#contact h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+}
+.embedmap-canvas{
+    width: 600px;
+}
+/* footer */
+/* CSS */
+footer {
+    background-color: #333;
+    color: #060606;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-container {
+    max-width: 800px;
+    height : 80px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .social-links li {
+    margin-right: 20px;
+  }
+  
+  .social-links a {
+    color: #050505;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    color: #ccc;
+  }
+  
+  .social-links i {
+    font-size: 24px;
+  }
+  
+  .fab {
+    font-family: 'Font Awesome 5 Brands';
+  }
+  
+  .fa-linkedin:before {
+    content: "\f08c";
+  }
+  
+  .fa-github:before {
+    content: "\f09b";
+  }
+  
+  .fa-instagram:before {
+    content: "\f16d";
+  }
+  
+  
+  
