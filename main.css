@@ -98,7 +98,8 @@
   }
   .image-section{
     float:right;
-    width: 40%;
+    width: 30%;
+    height: 80vh;
   }
   .image-section img{
     width: 100%;
